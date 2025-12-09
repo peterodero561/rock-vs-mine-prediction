@@ -9,10 +9,15 @@ Target varible has unique `'R'` -> Rock and `'M'` -> Mine
 
 ## Project Structure
 project/
+
 ├── data/ # Dataset
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── src/ # Source code
+
 ├── requirements.txt # Dependencies
+
 └── README.md # This file
 
 ## Results
